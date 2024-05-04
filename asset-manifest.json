@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Chatbot-flow/static/css/main.ebf3f2a4.css",
+    "main.js": "/Chatbot-flow/static/js/main.93879b5f.js",
+    "static/js/453.9c8709a5.chunk.js": "/Chatbot-flow/static/js/453.9c8709a5.chunk.js",
+    "static/media/back-button.svg": "/Chatbot-flow/static/media/back-button.1fedd33c74767f323c5543a13862a526.svg",
+    "index.html": "/Chatbot-flow/index.html",
+    "static/media/message.svg": "/Chatbot-flow/static/media/message.e70d3273b96785672c743e8ace28fa36.svg",
+    "main.ebf3f2a4.css.map": "/Chatbot-flow/static/css/main.ebf3f2a4.css.map",
+    "main.93879b5f.js.map": "/Chatbot-flow/static/js/main.93879b5f.js.map",
+    "453.9c8709a5.chunk.js.map": "/Chatbot-flow/static/js/453.9c8709a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebf3f2a4.css",
+    "static/js/main.93879b5f.js"
+  ]
+}
