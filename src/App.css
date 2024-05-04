@@ -28,10 +28,10 @@
   color: #61dafb;
 }
 
-/* .react-flow__node.selected{
-  border: 1px solid rgb(21 94 117);
-  border-radius: 0.75rem;
-} */
+.react-flow__handle {
+    width: 8px; 
+    height: 8px; 
+}
 
 @keyframes App-logo-spin {
   from {
